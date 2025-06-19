@@ -10,3 +10,4 @@ Hình ảnh thiết bị
 Hệ thống sẽ phân loại 4 loại chuyển động là: Đứng yên, đi bộ, chạy và ngã dựa trên mô hình AI sử dụng thuật toán Random forest (Bộ dữ liệu đơn giản tự xây xây dựng)
 
 Video demo
+https://www.youtube.com/watch?v=VNurhzmzql0
